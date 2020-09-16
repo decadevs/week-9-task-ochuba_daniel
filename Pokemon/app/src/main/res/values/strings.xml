@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="stats">Stats</string>
+    <string name="abilities">Abilities</string>
+    <string name="pick_abilities">Pick Abilities To View</string>
+    <string name="order">Order</string>
+    <string name="baseExperience">Base Experience</string>
+    <string name="height">Height</string>
+    <string name="goDown">Go Down</string>
+    <string name="weight">Weight</string>
+</resources>

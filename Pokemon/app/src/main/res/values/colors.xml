@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="myWhite">#fff</color>
+    <color name="orangeRecycler">#f2a654</color>
+    <color name="greenRecycler">#8bd574</color>
+    <color name="yellowRecycler">#f1cb56</color>
+    <color name="redRecycler">#e94871</color>
+    <color name="blueRecycler">#58acf6</color>
+</resources>
